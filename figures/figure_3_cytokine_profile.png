@@ -1,0 +1,9 @@
+[GRAPH: Stacked bar chart]
+Title: "Serum Cytokine Profile at 72 Hours"
+Groups: PBS, Empty Vector, TIRA Vector (left to right).
+Bars for each group show concentrations (pg/ml) of:
+  - IFN-γ (TIRA bar is dramatically taller)
+  - TNF-α (moderately taller)
+  - IL-6 (slightly taller)
+  - IL-10 (similar across groups)
+Note: Y-axis is log scale.
