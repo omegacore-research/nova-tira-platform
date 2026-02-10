@@ -1,0 +1,9 @@
+[GRAPH: Growth curve]
+Title: "MC38 Tumor Growth Inhibition"
+X-axis: Days Post-Tumor Inoculation
+Y-axis: Mean Tumor Volume (mm³) ± SEM
+Groups:
+  - PBS Control (steep upward curve, reaching 1000+ mm³ by day 21)
+  - Empty Vector Control (similar to PBS)
+  - TIRA Vector (flat curve, plateaus below 150 mm³)
+Statistical asterisks: p<0.001 from day 10 onward.
